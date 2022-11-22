@@ -7,7 +7,7 @@ Cayo Rodrigues Pessoa, Eduarda Augusta Borges, Kauã Andrade de Souza, Lívia Fo
  
  ## **Menu**
  
- Lista de Materiais - https://github.com/MeiMeiEli/GreenSparks/blob/main/Lista%20de%20Materias.md
+ + [Lista de materiais](https://github.com/MeiMeiEli/GreenSparks/blob/main/Lista%20de%20Materias.md)
  
- Introdução - https://github.com/MeiMeiEli/GreenSparks/blob/main/introdu%C3%A7%C3%A3o.md
+ + [Introdução](https://github.com/MeiMeiEli/GreenSparks/blob/main/introdu%C3%A7%C3%A3o.md)
  
