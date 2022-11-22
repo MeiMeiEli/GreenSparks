@@ -9,7 +9,7 @@ sustentabilidade na comunidade horticultora.
 
 # Desenvolvimento
 
-    Para o desenvolvimento do trabalho, os integrantes foram divididos em grupos para realização
+   Para o desenvolvimento do trabalho, os integrantes foram divididos em grupos para realização
 do projeto em partes, como a montagem, o código, a apresentação e toda a documentação.
 Na finalização tudo foi reunido rumo a conclusão de nosso objetivo.
 
