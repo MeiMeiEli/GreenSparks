@@ -20,8 +20,9 @@ programação se deu início, onde depois de muitos erros, a equipe conseguiu co
 solucioná-los. 
 
   Após a conclusão do projeto, um desafio de nosso professor orientador foi proposto: 
-  + Ser incluída uma tela LCD com o intuito de exibir as informações de umidade do solo. Também foi sugerido o desenvolvimento de um botão que 
-ligasse e desligasse todo o sistema. A implementação da placa LCD foi avaliada pela equipe, então a decisão de sua instalação 
-inclusa no projeto foi tomada. 
-  + Já o botão, foi um problema mais complexo a ser resolvido, sua inclusão ao
-projeto foi estudada, porém, todas as tentativas de sua introdução foram falhas.
+  + Ser incluída uma tela LCD com o intuito de exibir as informações de umidade do solo. A implementação 
+da placa LCD foi avaliada pela equipe, então a decisão de sua instalação inclusa no projeto foi tomada.
+  + Também foi sugerido o desenvolvimento de um botão que ligasse e desligasse todo o sistema. O botão, 
+foi um problema mais complexo a ser resolvido, sua inclusão ao projeto foi estudada, porém, todas as 
+tentativas de sua introdução foram falhas.
+  
