@@ -11,6 +11,6 @@ Cayo Rodrigues Pessoa, Eduarda Augusta Borges, Kauã Andrade de Souza, Lívia Fo
  
  + [Introdução](https://github.com/MeiMeiEli/GreenSparks/blob/main/introdu%C3%A7%C3%A3o.md)
  
- + [Etapas](https://github.com/MeiMeiEli/GreenSparks/blob/main/Etapas.md)
+ + [Desenvolvimento](https://github.com/MeiMeiEli/GreenSparks/blob/main/Etapas.md)
 
  + [Tinkercad](https://www.tinkercad.com/things/27L7vxjjKmH?sharecode=_jgilA3GPMQq4cgrc2j6q7TfTtJsRq4bb9dD7-hFHSQ)
