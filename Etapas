@@ -1,6 +1,6 @@
-#Etapas
+# Etapas
 
-#Ideia
+# Ideia
 
   A ideia para o projeto se baseou em sustentabilidade, onde além de explorar horizontes voltados a 
 sociedade agrícola também seria voltado a trabalhar com a conscientização no uso da água.
@@ -13,7 +13,7 @@ sustentabilidade na comunidade horticultora.
 do projeto em partes, como a montagem, o código, a apresentação e toda a documentação.
 Na finalização tudo foi reunido rumo a conclusão de nosso objetivo.
 
-#Etapas
+# Etapas
 
   Com o uso da plataforma Tinkercad, foram reunidos um Arduino UNO, uma protoboard, um Motor CC 
 (Para simulação do irrigador), um Led RGB, 2 Resistores 330, um sensor de umidade do solo, 
