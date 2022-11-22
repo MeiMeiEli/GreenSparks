@@ -15,3 +15,4 @@ Melissa Gouveia
  de dar uma qualidade essencial às suas hortas, tendo um sistema de irrigação ao qual não é necessário se preocupar com programações nem horários, o Green Sparks detecta 
  a umidade do solo, assim regando 
  apenas quando a se encontrar um baixo do necessário, dessa forma também se evita grandes volumes de água, que podem ser prejudicais como hortas.
+ 
