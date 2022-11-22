@@ -1,5 +1,3 @@
-# Etapas
-
 # Ideia
 
   A ideia para o projeto se baseou em sustentabilidade, onde além de explorar horizontes voltados a 
